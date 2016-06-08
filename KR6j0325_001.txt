@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:30:18.014779
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:52
 #+TITLE: 毘俱胝菩薩一百八名經
 #+PROPERTY: CBETA_ID T20n1114
 #+PROPERTY: ID KR6j0325
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1114
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0325_T_000-0501a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0325_T_001-0501a> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1114¶
-
- 毘俱胝菩薩一百八名經¶
+No. 1114¶
+毘俱胝菩薩一百八名經¶
 ¶
 西天譯經三藏朝散大夫試鴻臚少卿¶
 傳教大師臣法天奉　詔譯¶
